@@ -14,8 +14,14 @@ block content
 
     .grid-x.grid-margin-x.small-up-2.medium-up-2.large-up-3
 
-      each val in data.project
-      
+      //- Use the Pug `each` iterator to create a projet img, title and link in the markup for each of the projects you are showcasing.
+
+      //- Use a combination of interpolation and template literals as needed to dynamically generate the the routes in the href, as well as the img's src and the projects title.
+
+      //- Here's what the Pug for each project example should look like.
+
+      each val in data.projects
+
         .cell
           a(href=`/projects${val.id}`)
             img.thumbnail(src=`${val.image_urls[0]}`)
