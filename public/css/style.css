@@ -148,3 +148,42 @@ a:hover{
 .portfolio-bio{
     line-height: 25px;
 }
+
+body {
+  background-color: #DDDDDD;
+}
+.title-bar {
+  background-color: #667F99;
+}
+
+.off-canvas {
+  background-color: #667F99;
+}
+
+.thumbnail {
+  border: solid 4px #6666663b;
+}
+
+.portfolio-me p {
+  color: #c5c5c5;
+}
+
+.button {
+  background-color: #667F99;
+}
+
+.button:hover {
+  background-color: #495b6f;
+}
+
+h1 {
+  font-family: Georgia, serif
+}
+
+h5 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+}

@@ -4,45 +4,45 @@
     {
     "id": 0,
     "project_name": "A Random Quote Generator",
-    "description":"This program is design to show a random quote each time the button is pressed, or it will show a quote every 30 seconds if buttonis not pressed.",
-    "technologies":["HTML", "CSS", "Javascript"],
+    "description":"This program is design to show a random quote each time the button is pressed, or it will show a quote every 30 seconds if button is not pressed.",
+    "technologies":["Javascript", "HTML", "CSS"],
     "live_link":"https://kevnm24.github.io/techdegree-project-1/",
     "github_link":"https://github.com/kevnm24/techdegree-project-1"
     ,
-    "image_urls":["/project1_550x550.JPG", "/project1 1200x550.jpg"]
+    "image_urls":["images/project1 small.JPG", "images/project1 big1.jpg", "images/project1 big2.JPG", "images/project1 big3.JPG"]
 },
 {
     "id": 1,
     "project_name": "Pagination",
     "description":"This application shows a list of 10 people on each page and can add more pages if more people are added.",
-    "technologies":["HTML", "CSS", "Javascript", "Jquery"],
+    "technologies":["Javascript", "HTML", "CSS"],
     "live_link":"https://kevnm24.github.io/Techdegree-Project-2/",
     "github_link":"https://github.com/kevnm24/Techdegree-Project-2",
-    "image_urls": ["/project2 small.JPG", "/project2 big1.JPG", "/project2 big2.JPG", "/project2 big3.JPG"]
+    "image_urls": ["images/project2 small.JPG", "images/project2 big1.JPG", "images/project2 big2.JPG", "images/project2 big3.JPG"]
 }, {
     "id": 2,
     "project_name": "Registration Form",
     "description":"This is a interactive from that uses real time error validation and will only submit until everything is filled out correctly.",
-    "technologies":["HTML", "CSS", "Javascript", "jquery"],
+    "technologies":["Javascript", "Jquery", "HTML", "CSS"],
     "live_link":"https://kevnm24.github.io/Techdegree-Project-3/",
     "github_link":"https://github.com/kevnm24/Techdegree-Project-3",
-    "image_urls":["/project3 small.JPG", "/project3 big1.JPG", "/project3 big2.JPG", "/project3 big3.JPG"]
+    "image_urls":["images/project3 small.JPG", "images/project3 big1.JPG", "images/project3 big2.JPG", "images/project3 big3.JPG"]
 }, {
     "id": 3,
     "project_name": "Guessing Game",
     "description":"This is a game that lets the user click any letter on the screen, then the program will determine if the letter is used in the phrase. If it is it will display the letter if not you lose a life if you lose all ofyour lifes you lose the game and you have the option to try again, if you win you will also have the option the try again which will reset the game.",
-    "technologies":["Javascript", "jquery", "HTML", "CSS"],
+    "technologies":["Javascript", "Jquery", "HTML", "CSS"],
     "live_link":"https://kevnm24.github.io/Techdegree-Project-4/",
     "github_link":"https://github.com/kevnm24/Techdegree-Project-4",
-    "image_urls":["/project4 small.jpg", "/project4 big1.JPG", "/project4 big2.JPG", "/project4 big3.JPG"]
+    "image_urls":["images/project4 small.jpg", "images/project4 big1.JPG", "images/project4 big2.JPG", "images/project4 big3.JPG"]
 }, {
     "id": 4,
     "project_name": "Public API Request",
     "description":"This program uses a public API to request random people with thier information to create an employee directory.",
-    "technologies":["Javascript", "jquery", "HTML", "CSS"],
+    "technologies":["Javascript", "Jquery", "HTML", "CSS"],
     "live_link":"https://kevnm24.github.io/Techdegree-Project-5/",
     "github_link":"https://github.com/kevnm24/Techdegree-Project-5",
-    "image_urls":["/project5 small.jpg", "/project5 big1.JPG", "/project5 big2.JPG", "/project5 big3.JPG"]
+    "image_urls":["images/project5 small.jpg", "images/project5 big1.JPG", "images/project5 big2.JPG", "images/project5 big3.JPG"]
 }
 
 ]
