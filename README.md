@@ -1,1 +1,1 @@
-Currently I am working on meets
+This project is suppose to be my portfolio that shows projects that I have done to show what skills I have with JavaScript. I am also aiming for an exceeds in the project, to do that I set up my package.json file so that running npm start will run the app, and I also added error messages. Lastly I changed some the text color, the background colors, the font, and the color of border surrounding the images.
